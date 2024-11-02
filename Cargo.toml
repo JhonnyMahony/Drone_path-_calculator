@@ -1,0 +1,11 @@
+[package]
+name = "path"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+rand ="0.8.5"
+image = "0.24.9"
+plotters = "0.3"       # For visualizing the path
+pathfinding = "4.11.0"
+ordered-float = "3.9.2"
